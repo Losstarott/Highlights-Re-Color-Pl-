@@ -1,2 +1,2 @@
 # Highlights-Re-Color-(Pl)-
-NTM resourcepack that re-colorizes description highlights.
+NTM ResourcePack that re-colorizes description highlights.
